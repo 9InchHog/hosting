@@ -41,30 +41,30 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.18.1",
+    "projectVersion": "4.18.2",
     "artifacts": [
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runescape-api-4.18.1.jar",
-            "size": 115803,
-            "name": "runescape-api-4.18.1.jar",
-            "hash": "e6fc62fa9d872610ad808205928e72c34659b9b3c53b612258537086756facda"
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runescape-api-4.18.2.jar",
+            "size": 115845,
+            "name": "runescape-api-4.18.2.jar",
+            "hash": "eb8c98d5c03a1ecb956725deaa3cc284f18b470ef1234e66dbc20d1612c34b9f"
         },
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-api-4.18.1.jar",
-            "size": 1296031,
-            "name": "runelite-api-4.18.1.jar",
-            "hash": "36c066fae1288de2c6456c469dac467b4856665fb47f14f2d3e7dfedb902f1d8"
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-api-4.18.2.jar",
+            "size": 1296056,
+            "name": "runelite-api-4.18.2.jar",
+            "hash": "ab1c775105c0d116c52d6800499d0d73ed2c8fb35d04b93cf3f4110d492ec913"
         },
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.18.1.jar",
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.18.2.jar",
             "size": 89676,
-            "name": "http-api-4.18.1.jar",
+            "name": "http-api-4.18.2.jar",
             "hash": "08fa22276f91067a6fd749d115f0a6c65c5fd57f491eca798a64fb2b03c22420"
         },
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.18.1.jar",
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.18.2.jar",
             "size": 23182,
-            "name": "runelite-jshell-4.18.1.jar",
+            "name": "runelite-jshell-4.18.2.jar",
             "hash": "e484114d66f41cb767f21949dc3de08b002aaaf0254f6462d7f7e6e614f58661"
         },
         {
@@ -572,10 +572,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.18.1.jar",
-            "size": 21306996,
-            "name": "runelite-client-4.18.1.jar",
-            "hash": "810e66eb8e0e24ee2af3791852d7e7fb65e93b81fcc4442065abd599b3c95646"
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.18.2.jar",
+            "size": 21311178,
+            "name": "runelite-client-4.18.2.jar",
+            "hash": "55e91d43dfde7f7d21f1af6a8128848499f9d88d749fbbcd0088237636d0098b"
         }
     ]
 }
