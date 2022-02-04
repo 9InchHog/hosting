@@ -573,9 +573,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.19.0.jar",
-            "size": 21582601,
+            "size": 21583607,
             "name": "runelite-client-4.19.0.jar",
-            "hash": "ca6ba87e4ea4cab8bec60ab971424f69756ee42a887d6efd26ce0f20bd54c6c3"
+            "hash": "a9a8034e3eca0673bbeece64a73275adf6a9c1644e49d01c15a3005058d60d86"
         }
     ]
 }
