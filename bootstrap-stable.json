@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "cf0a4856524658b0e514119a883e9b4c0bfdcbef",
+    "buildCommit": "764bee91e02b54ace5d9212237fdaed717155c80",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -59,7 +59,7 @@
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.20.0.jar",
             "size": 89677,
             "name": "http-api-4.20.0.jar",
-            "hash": "a9ae5675662caeb3bb9cc09f71dd8b248597721fa745bad783350c150d9843eb"
+            "hash": "2041bb97191721ea98c3c2efb872083104b45c324a0c10b4329cc43aeb8ac44c"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.20.0.jar",
@@ -573,9 +573,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.20.0.jar",
-            "size": 11929527,
+            "size": 12401008,
             "name": "runelite-client-4.20.0.jar",
-            "hash": "821e2107487275b3e118f0e5cdeff50850583d93cbfd300a801c7ea53c9a0feb"
+            "hash": "2d15e3a35f10ba1301611a4805eed25f14625500ff9762b67a2067a9a67195e3"
         }
     ]
 }
