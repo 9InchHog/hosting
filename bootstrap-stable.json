@@ -51,9 +51,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-api-4.21.0.jar",
-            "size": 1314698,
+            "size": 1314706,
             "name": "runelite-api-4.21.0.jar",
-            "hash": "80327444447c30d2c76e76a9000a4255fd0572dfbe6789848ab754ad8c4153ee"
+            "hash": "6eddf004b0a3655b0afb4fa8fd2ffde07f3d0fac51dedd50e992cc2e2f02abc0"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.21.0.jar",
@@ -573,9 +573,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.21.0.jar",
-            "size": 12565618,
+            "size": 12565444,
             "name": "runelite-client-4.21.0.jar",
-            "hash": "912600a1e8159ca4e0a0887c0b6462d913539ff97106e2db8f26951ce0e6ba36"
+            "hash": "343d1831f5685c4ba821d6aa4e38b2e41881057dbf89a53b6b1daab48fe06a39"
         }
     ]
 }
