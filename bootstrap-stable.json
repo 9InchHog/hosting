@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "61301dd40a3b502d86bcf496fbddee448b70102e",
+    "buildCommit": "cc2e4073ca0e248541c64349d77094c8ae800e56",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -19,7 +19,7 @@
         "-XX:CompileThreshold=1500",
         "-Djna.nosys=true"
     ],
-    "minimumLauncherVersion": "2.2.0",
+    "minimumLauncherVersion": "2.2.4",
     "clientJvm9Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Xmx1G",
@@ -45,9 +45,9 @@
     "artifacts": [
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runescape-api-4.21.0.jar",
-            "size": 118239,
+            "size": 118434,
             "name": "runescape-api-4.21.0.jar",
-            "hash": "50198690df67a406f20bb29d4024dcbbb9940f4f377f979548cdbb2b4f6b4dac"
+            "hash": "9060331acf3aa69c71792d75f4df3d1efb7b7011979c919b06f705a0446f9c81"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-api-4.21.0.jar",
@@ -57,9 +57,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.21.0.jar",
-            "size": 89678,
+            "size": 89677,
             "name": "http-api-4.21.0.jar",
-            "hash": "a6695f7a34a0ad1876666b9b89c1945fa4cae5d2b74426cfaf51dbe6becb38bd"
+            "hash": "3b3f2d438f3e57d8fdccb19f68702d59feed7dbcd88fcca7c109626a96ebb20e"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.21.0.jar",
@@ -573,9 +573,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.21.0.jar",
-            "size": 12565422,
+            "size": 12565992,
             "name": "runelite-client-4.21.0.jar",
-            "hash": "0c8d757f4fd70d76f5a6ca19486e8719e8137c2c9091016757d0d2bbc290babb"
+            "hash": "d5781463569c84c35465fbe6917e2bf76177647c35308422ceacb630ea194441"
         }
     ]
 }
