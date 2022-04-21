@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "66cd8cea8d52b0e03e1fe8b7196ef910b53b9059",
+    "buildCommit": "a946904c14eff4aa4e0dbd14d019d036b2042b1c",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -45,21 +45,21 @@
     "artifacts": [
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runescape-api-4.24.1.jar",
-            "size": 118641,
+            "size": 118677,
             "name": "runescape-api-4.24.1.jar",
-            "hash": "64c62708864a23dc78beb28d57f8f8a3016115ff0d008e0635c09798bcfb4f27"
+            "hash": "ab2f8eb199eb8850c943a7abf3d55533d2cc3211aec719558aa2eaef642714f1"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-api-4.24.1.jar",
-            "size": 1306456,
+            "size": 1306491,
             "name": "runelite-api-4.24.1.jar",
-            "hash": "a0a44a77a426a5b6511b1a92ac673b2914b2fe654d5ab6806f890e2d68c320af"
+            "hash": "c0263791ca6d9213bf8b9fe17980b6c4783a803d146491dda481073ded4cd73a"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.24.1.jar",
             "size": 89677,
             "name": "http-api-4.24.1.jar",
-            "hash": "48bcf38df376fcf117858d8e32b0da604a9eb0d8eb867325b3ec3e16f41c2883"
+            "hash": "91885e1ab507343f1b6598c2e186131db880fa7e22cbbb6731044eb7aa4bce54"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.24.1.jar",
@@ -573,9 +573,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.24.1.jar",
-            "size": 12596699,
+            "size": 12594182,
             "name": "runelite-client-4.24.1.jar",
-            "hash": "5695fc39732bdcb34e8d8c313f83265da797803fe5b69d28c03bb5e7cce42ffd"
+            "hash": "4faa2f14944ded90ce0bec67308d32f5f8c9c4a4261332966cfd27c86a9fb7b5"
         }
     ]
 }
