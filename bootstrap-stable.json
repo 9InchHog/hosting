@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "a946904c14eff4aa4e0dbd14d019d036b2042b1c",
+    "buildCommit": "fdbe34fafed9cd2152fe50aa8efdd2c3fefa6032",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,31 +41,31 @@
         "-Dawt.useSystemAAFontSettings=on",
         "-Dswing.aatext=true"
     ],
-    "projectVersion": "4.24.1",
+    "projectVersion": "4.25.0",
     "artifacts": [
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runescape-api-4.24.1.jar",
-            "size": 118677,
-            "name": "runescape-api-4.24.1.jar",
-            "hash": "ab2f8eb199eb8850c943a7abf3d55533d2cc3211aec719558aa2eaef642714f1"
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runescape-api-4.25.0.jar",
+            "size": 118273,
+            "name": "runescape-api-4.25.0.jar",
+            "hash": "5f2cfdb443f981f86c0b1d3e3e9a4c2458c52637294b19cf8db13bda095ed68d"
         },
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-api-4.24.1.jar",
-            "size": 1306491,
-            "name": "runelite-api-4.24.1.jar",
-            "hash": "c0263791ca6d9213bf8b9fe17980b6c4783a803d146491dda481073ded4cd73a"
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-api-4.25.0.jar",
+            "size": 1303027,
+            "name": "runelite-api-4.25.0.jar",
+            "hash": "b7a3a7ad6b85ca77efe8c1820d8880f0c76cec3e51d3876ba65a00d87519c95e"
         },
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.24.1.jar",
-            "size": 89677,
-            "name": "http-api-4.24.1.jar",
-            "hash": "91885e1ab507343f1b6598c2e186131db880fa7e22cbbb6731044eb7aa4bce54"
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.25.0.jar",
+            "size": 88797,
+            "name": "http-api-4.25.0.jar",
+            "hash": "640f71c7a90f42e6819ec54fdd47b233e420b219e4d7d648fc61d5a1640b13cd"
         },
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.24.1.jar",
-            "size": 23184,
-            "name": "runelite-jshell-4.24.1.jar",
-            "hash": "ebae1fcc615d45a597ce8d9cde6e4bea6987c17a44442115d9e6bad77ee61fac"
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.25.0.jar",
+            "size": 22974,
+            "name": "runelite-jshell-4.25.0.jar",
+            "hash": "ac832e29b5ee6dfeb4336cedb7d68a5bac44985ab294d94af34f513854e24426"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
@@ -417,9 +417,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/injection-annotations-1.0.jar",
-            "size": 7289,
+            "size": 7298,
             "name": "injection-annotations-1.0.jar",
-            "hash": "5efbdb9d0f00ec22db20e18bed98fb26ef988cba8deeb89103078414f99dfea5"
+            "hash": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2.jar",
@@ -572,10 +572,10 @@
             "hash": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe"
         },
         {
-            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.24.1.jar",
-            "size": 12594182,
-            "name": "runelite-client-4.24.1.jar",
-            "hash": "4faa2f14944ded90ce0bec67308d32f5f8c9c4a4261332966cfd27c86a9fb7b5"
+            "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.25.0.jar",
+            "size": 12501246,
+            "name": "runelite-client-4.25.0.jar",
+            "hash": "43077937ce263e438617de9ab7e12cbb5c579ebf4df623d6941a86bda4741082"
         }
     ]
 }
