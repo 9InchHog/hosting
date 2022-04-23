@@ -10,7 +10,7 @@
         "-XX:+UseParNewGC",
         "-Djna.nosys=true"
     ],
-    "buildCommit": "fdbe34fafed9cd2152fe50aa8efdd2c3fefa6032",
+    "buildCommit": "08e33e8d07beacd89348dd8185424045b20c4358",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -45,27 +45,27 @@
     "artifacts": [
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runescape-api-4.25.0.jar",
-            "size": 118273,
+            "size": 118677,
             "name": "runescape-api-4.25.0.jar",
-            "hash": "5f2cfdb443f981f86c0b1d3e3e9a4c2458c52637294b19cf8db13bda095ed68d"
+            "hash": "ab2f8eb199eb8850c943a7abf3d55533d2cc3211aec719558aa2eaef642714f1"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-api-4.25.0.jar",
-            "size": 1303027,
+            "size": 1306500,
             "name": "runelite-api-4.25.0.jar",
-            "hash": "b7a3a7ad6b85ca77efe8c1820d8880f0c76cec3e51d3876ba65a00d87519c95e"
+            "hash": "19b8ed374e8b291bf1845f51584029fb30e62ef0ce3ad6b1b847f0cf59a8d4e6"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.25.0.jar",
-            "size": 88797,
+            "size": 89677,
             "name": "http-api-4.25.0.jar",
-            "hash": "640f71c7a90f42e6819ec54fdd47b233e420b219e4d7d648fc61d5a1640b13cd"
+            "hash": "59959ec5b5bd6d4cb1d2f216b3d50cfd3e1d5736d4df3672d072090fca7ffd6f"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.25.0.jar",
-            "size": 22974,
+            "size": 23184,
             "name": "runelite-jshell-4.25.0.jar",
-            "hash": "ac832e29b5ee6dfeb4336cedb7d68a5bac44985ab294d94af34f513854e24426"
+            "hash": "ebae1fcc615d45a597ce8d9cde6e4bea6987c17a44442115d9e6bad77ee61fac"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.9/logback-classic-1.2.9.jar",
@@ -417,9 +417,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/injection-annotations-1.0.jar",
-            "size": 7298,
+            "size": 7289,
             "name": "injection-annotations-1.0.jar",
-            "hash": "bf1ef2a463fca3e1ece80c70d63a5f5f8ce7b260396175de0d7a8e98f2c4d06b"
+            "hash": "5efbdb9d0f00ec22db20e18bed98fb26ef988cba8deeb89103078414f99dfea5"
         },
         {
             "path": "https://repo.maven.apache.org/maven2/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2.jar",
@@ -573,9 +573,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.25.0.jar",
-            "size": 12501318,
+            "size": 12549845,
             "name": "runelite-client-4.25.0.jar",
-            "hash": "634ab7141c87d7fdcb576ccf4b55b2cc64da35f3a6f9810563def11fd29cd77c"
+            "hash": "1c3e90879ae4558e9dec3551c69a5831bd13a67669efc00e04935bbf6361de42"
         }
     ]
 }
