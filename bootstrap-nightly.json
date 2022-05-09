@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "766dc8d2e76bad779d23e2ee27d538b38a3a4aad",
+    "buildCommit": "91bd546dfce0b76ea2a78d35107cd2349068614f",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -47,7 +47,7 @@
         "gluegen-rt-2.3.2.jar": "084844543b18f7ff71b4c0437852bd22f0cb68d7e44c2c611c1bbea76f8c6fdf",
         "jogl-gldesktop-dbg-2.4.0-rc-20220318.jar": "12cb4a18958d3da1fb7def4800cd31a5a266e9da9ccbb6dca9efa1d1b9d953e0",
         "slf4j-api-1.7.32.jar": "3624f8474c1af46d75f98bc097d7864a323c81b3808aa43689a6e1c601c027be",
-        "http-api-4.25.2.jar": "7387253fd286e61ff845c8dd51bb8f9dc4c5def212364ba07d2069166044bf35",
+        "http-api-4.25.2.jar": "024f168287656b9887429aae4d46d3cfc6c328d4c9adc6a3e38cab3f37f3c688",
         "discord-1.4.jar": "6409723fd13496386dfb1335a9794dc0919db6132522f2b7486d6734fc5df6e5",
         "kotlin-stdlib-1.4.10.jar": "01ecb09782c042b931c1839acf21a188340b295d05400afd6e3415d4475b8daa",
         "gluegen-rt-2.3.2-natives-android-armv6.jar": "a9a19f8042508877661403932ae2f92e61f0175d3067875ddd57a9adf5954708",
@@ -83,7 +83,7 @@
         "okhttp-4.9.1.jar": "6afdd8f35f4eb60df965c290fa3acf29443fa986545113d0729b8461f6571f8f",
         "jopt-simple-5.0.4.jar": "df26cc58f235f477db07f753ba5a3ab243ebe5789d9f89ecf68dd62ea9a66c28",
         "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
-        "runelite-client-4.25.2.jar": "7e7b53bfe9cb571c710366d1f7afdb3bfe7b13f7883f1e076adefadafeb473d3",
+        "runelite-client-4.25.2.jar": "416c9e4011bd52cf7f9f1930f15be60ad2f30e28b87f8c276f8c2e1bac729c2c",
         "error_prone_annotations-2.5.1.jar": "ff80626baaf12a09342befd4e84cba9d50662f5fcd7f7a9b3490a6b7cf87e66c",
         "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
         "jogl-rl-2.4.0-rc-20220318-natives-windows-amd64.jar": "e7636fef6e9edc9f2caad7a4d5ca748edcc7cecb9446b917e4e5f93241123f2c",
@@ -196,9 +196,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/nightly/http-api-4.25.2.jar",
-            "size": 89677,
+            "size": 89679,
             "name": "http-api-4.25.2.jar",
-            "hash": "7387253fd286e61ff845c8dd51bb8f9dc4c5def212364ba07d2069166044bf35"
+            "hash": "024f168287656b9887429aae4d46d3cfc6c328d4c9adc6a3e38cab3f37f3c688"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/nightly/runelite-jshell-4.25.2.jar",
@@ -762,9 +762,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/nightly/runelite-client-4.25.2.jar",
-            "size": 12567662,
+            "size": 12559500,
             "name": "runelite-client-4.25.2.jar",
-            "hash": "7e7b53bfe9cb571c710366d1f7afdb3bfe7b13f7883f1e076adefadafeb473d3"
+            "hash": "416c9e4011bd52cf7f9f1930f15be60ad2f30e28b87f8c276f8c2e1bac729c2c"
         }
     ]
 }
