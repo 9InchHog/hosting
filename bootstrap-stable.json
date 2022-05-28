@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "76e4ef6dd3b1ed5be5be27d1d00dba1788a4597d",
+    "buildCommit": "8436980826b56a48f3baf51d172ef15e5b8fa177",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -67,12 +67,12 @@
         "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
         "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
         "jocl-1.0-macos-arm64.jar": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa",
-        "runelite-client-4.28.0.jar": "7791bc538ff2711ed1a7d7396241db7394bae6f02ef429efcfbf300c845ee33d",
+        "runelite-client-4.28.0.jar": "2baec057ef1c6c6f7a251b10b9ee62d6b47b78f2563ea1c5e587bff69796c75c",
         "checker-qual-3.8.0.jar": "c88c2e6a5fdaeb9f26fcf879264042de8a9ee9d376e2477838feaabcfa44dda6",
         "jogl-rl-2.4.0-rc-20220318-natives-windows-i586.jar": "75029af713b9df5ecd47a818ef32eb0909a95bb0dde7514cd6dc73e82900ed13",
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
         "jogl-all-2.3.2-natives-solaris-amd64.jar": "229059e154494e26197530494d175082bdf1ec46502aedf24d9f5c99d434887e",
-        "http-api-4.28.0.jar": "05f221b9c3f4381210bbd4f7ed464f22265685576191e5376c6e265ec5a868c6",
+        "http-api-4.28.0.jar": "cd0bb72ad4183d8aa5a8c525bc10508805339dbfe9ccfd388bb7524e3ca937a9",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
         "gluegen-rt-2.3.2-natives-solaris-i586.jar": "96c38f07cd26cea050dd3dc1253c79c74366161ca40c366210bce1fc8d411497",
         "auth-secure-storage-0.6.4.jar": "fa5b7a0fc7c2d7512c2c6e706c01b5fffb5c6c7f15ee94b5928daf19ba166675",
@@ -198,7 +198,7 @@
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.28.0.jar",
             "size": 89677,
             "name": "http-api-4.28.0.jar",
-            "hash": "05f221b9c3f4381210bbd4f7ed464f22265685576191e5376c6e265ec5a868c6"
+            "hash": "cd0bb72ad4183d8aa5a8c525bc10508805339dbfe9ccfd388bb7524e3ca937a9"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.28.0.jar",
@@ -762,9 +762,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.28.0.jar",
-            "size": 12758923,
+            "size": 12758933,
             "name": "runelite-client-4.28.0.jar",
-            "hash": "7791bc538ff2711ed1a7d7396241db7394bae6f02ef429efcfbf300c845ee33d"
+            "hash": "2baec057ef1c6c6f7a251b10b9ee62d6b47b78f2563ea1c5e587bff69796c75c"
         }
     ]
 }
