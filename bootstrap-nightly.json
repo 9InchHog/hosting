@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "456f8bd67901b3f25972bde286d900008464cf2b",
+    "buildCommit": "6b2ecea851328755236360fe5afe0006c220d4e3",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -32,7 +32,7 @@
         "kotlin-stdlib-common-1.4.10.jar": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe",
         "logback-core-1.2.9.jar": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
         "desktopsupport-0.6.0.jar": "45726bd470f9d2507fbb0c96a11cf8eca0f902069d1b256bb038f125822ea290",
-        "runelite-api-4.28.0.jar": "6440c65af3a0b0c286d7c3e566a7ef92a22eecc078fa03c7797f306c70b3668c",
+        "runelite-api-4.28.0.jar": "d3dcb806cdf24eeecade609732f6a87f734a84c0379817ff24a4921973011320",
         "java-semver-0.9.0.jar": "2218c73b40f9af98b570d084420c1b4a81332297bd7fc27ddd552e903be8e93c",
         "gluegen-rt-2.3.2-natives-linux-i586.jar": "1365d463f98c0abec92f3ad6b35aa4b53a9599a517800cf99fdabea6712ca7ec",
         "commons-text-1.9.jar": "0812f284ac5dd0d617461d9a2ab6ac6811137f25122dfffd4788a4871e732d00",
@@ -67,12 +67,12 @@
         "jna-5.9.0.jar": "eafcc780b445434d3c5ae7fa2fb6665de1a7560d537d2c408a8e80cd14d27161",
         "okio-jvm-2.8.0.jar": "4496b06e73982fcdd8a5393f46e5df2ce2fa4465df5895454cac68a32f09bbc8",
         "jocl-1.0-macos-arm64.jar": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa",
-        "runelite-client-4.28.0.jar": "1b6604d0bbea0dbff5d61c31b9dec9450951c002cc41f1ee23d7ec0b80de83db",
+        "runelite-client-4.28.0.jar": "ed779291dece437d8085cb7eddbaf2bd3611169a51d241d1acbab09abeb1e155",
         "checker-qual-3.8.0.jar": "c88c2e6a5fdaeb9f26fcf879264042de8a9ee9d376e2477838feaabcfa44dda6",
         "jogl-rl-2.4.0-rc-20220318-natives-windows-i586.jar": "75029af713b9df5ecd47a818ef32eb0909a95bb0dde7514cd6dc73e82900ed13",
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
         "jogl-all-2.3.2-natives-solaris-amd64.jar": "229059e154494e26197530494d175082bdf1ec46502aedf24d9f5c99d434887e",
-        "http-api-4.28.0.jar": "7cb86c71b3eb5e76235560a3d2be264b3c09e8ed21b6cb629a99517c6d293d80",
+        "http-api-4.28.0.jar": "c6fb0d3f69cde36b7bbec29315e2ef7838a6c7c03cbc79cb226985c017cc85b9",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
         "gluegen-rt-2.3.2-natives-solaris-i586.jar": "96c38f07cd26cea050dd3dc1253c79c74366161ca40c366210bce1fc8d411497",
         "auth-secure-storage-0.6.4.jar": "fa5b7a0fc7c2d7512c2c6e706c01b5fffb5c6c7f15ee94b5928daf19ba166675",
@@ -190,15 +190,15 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/nightly/runelite-api-4.28.0.jar",
-            "size": 1320213,
+            "size": 1320339,
             "name": "runelite-api-4.28.0.jar",
-            "hash": "6440c65af3a0b0c286d7c3e566a7ef92a22eecc078fa03c7797f306c70b3668c"
+            "hash": "d3dcb806cdf24eeecade609732f6a87f734a84c0379817ff24a4921973011320"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/nightly/http-api-4.28.0.jar",
             "size": 89676,
             "name": "http-api-4.28.0.jar",
-            "hash": "7cb86c71b3eb5e76235560a3d2be264b3c09e8ed21b6cb629a99517c6d293d80"
+            "hash": "c6fb0d3f69cde36b7bbec29315e2ef7838a6c7c03cbc79cb226985c017cc85b9"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/nightly/runelite-jshell-4.28.0.jar",
@@ -762,9 +762,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/nightly/runelite-client-4.28.0.jar",
-            "size": 12764280,
+            "size": 12764509,
             "name": "runelite-client-4.28.0.jar",
-            "hash": "1b6604d0bbea0dbff5d61c31b9dec9450951c002cc41f1ee23d7ec0b80de83db"
+            "hash": "ed779291dece437d8085cb7eddbaf2bd3611169a51d241d1acbab09abeb1e155"
         }
     ]
 }
