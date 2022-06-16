@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "07faa9d01f37cfd5a91043b5b21651c2a665ac6c",
+    "buildCommit": "888314085fa5b146d3b913b4490fe96740b5cefb",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -102,7 +102,7 @@
         "gluegen-rt-2.3.2-natives-linux-amd64.jar": "f2dfd1800202059cf7e0294db5d57755147304e6eb220a9277526dbe6842bde2",
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
         "jogl-all-2.3.2-natives-solaris-i586.jar": "e37b6b4bf4fd76da1b2d9a740bcdc51cf28d64a2f21c0521f5d37511c880726f",
-        "http-api-4.30.0.jar": "f6c39e8c3f23a0d496f8d5328b96ccdf59f5c75688ff666764edba896fca48ff",
+        "http-api-4.30.0.jar": "0be2dd2935e675204c942976bc0cc211e9d3d14fcd4e4cbb0e7aa7d0375b056b",
         "jogl-rl-2.4.0-rc-20220318-natives-linux-amd64.jar": "346dee2189c431fe99980c478e511f9465f26bd8aba4db4288010532fde116af",
         "jogl-all-main-2.3.2.jar": "cc114f4c0b29b2fe4d06a5c7931838814452a04cc9789e27b21ab05d3541c107",
         "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
@@ -198,7 +198,7 @@
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.30.0.jar",
             "size": 89677,
             "name": "http-api-4.30.0.jar",
-            "hash": "f6c39e8c3f23a0d496f8d5328b96ccdf59f5c75688ff666764edba896fca48ff"
+            "hash": "0be2dd2935e675204c942976bc0cc211e9d3d14fcd4e4cbb0e7aa7d0375b056b"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.30.0.jar",
