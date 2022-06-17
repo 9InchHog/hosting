@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "3bf624365bad20767e3b99bd4dc0923775df157e",
+    "buildCommit": "42483264f134c37abb82824cf9cf0308fa1b2148",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -28,7 +28,7 @@
         "gluegen-rt-2.3.2-natives-linux-armv6.jar": "6a07637b763dbb6ddd839afce3da67a1b865141f9a89ff9be9d0739a7268cd3d",
         "gluegen-rt-2.3.2-natives-windows-amd64.jar": "3474017422eff384db466bdb56c96c61220c43133a9da6329cf1781bea16c6b6",
         "jogl-all-2.3.2-natives-linux-amd64.jar": "82637302ae9effdf7d6f302e1050ad6aee3b13019914ddda5b502b9faa980216",
-        "runelite-client-4.30.0.jar": "8d9fcfe0199050be46cc1ee115250b6638c448faad5daa777cf35f4916893316",
+        "runelite-client-4.30.0.jar": "def436b66e1af3fb07e0456ee18ec6d366cc65dbbea3c812b5df6cbfb55232ac",
         "auth-common-0.6.4.jar": "156d3e47984b39452d0162344309f9b9ac0b63f8e5f30d0e183a608880b4feff",
         "kotlin-stdlib-common-1.4.10.jar": "4681f2d436a68c7523595d84ed5758e1382f9da0f67c91e6a848690d711274fe",
         "logback-core-1.2.9.jar": "4a9ef7ed809b1fbc6992bf87d404087c247e7a9766e25bb84377b58ed5c9eb58",
@@ -102,7 +102,7 @@
         "gluegen-rt-2.3.2-natives-linux-amd64.jar": "f2dfd1800202059cf7e0294db5d57755147304e6eb220a9277526dbe6842bde2",
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
         "jogl-all-2.3.2-natives-solaris-i586.jar": "e37b6b4bf4fd76da1b2d9a740bcdc51cf28d64a2f21c0521f5d37511c880726f",
-        "http-api-4.30.0.jar": "68408cf8521967cf9623d27e9ead4d5451524d621c7864a4e9f0de1028646e1d",
+        "http-api-4.30.0.jar": "18250edb18b3048686f1c2d8434a985196cb8b2977ac1ee2383832eb975ea163",
         "jogl-rl-2.4.0-rc-20220318-natives-linux-amd64.jar": "346dee2189c431fe99980c478e511f9465f26bd8aba4db4288010532fde116af",
         "jogl-all-main-2.3.2.jar": "cc114f4c0b29b2fe4d06a5c7931838814452a04cc9789e27b21ab05d3541c107",
         "jgroups-5.2.2.Final.jar": "cfee5822e342c4018b9c71acc6aac0e23910f1b04725a0e44fe9f94ef2dc3f1e",
@@ -196,9 +196,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/http-api-4.30.0.jar",
-            "size": 89677,
+            "size": 89676,
             "name": "http-api-4.30.0.jar",
-            "hash": "68408cf8521967cf9623d27e9ead4d5451524d621c7864a4e9f0de1028646e1d"
+            "hash": "18250edb18b3048686f1c2d8434a985196cb8b2977ac1ee2383832eb975ea163"
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-jshell-4.30.0.jar",
@@ -762,9 +762,9 @@
         },
         {
             "path": "https://github.com/9InchHog/hosting/raw/master/stable/runelite-client-4.30.0.jar",
-            "size": 12752067,
+            "size": 12763906,
             "name": "runelite-client-4.30.0.jar",
-            "hash": "8d9fcfe0199050be46cc1ee115250b6638c448faad5daa777cf35f4916893316"
+            "hash": "def436b66e1af3fb07e0456ee18ec6d366cc65dbbea3c812b5df6cbfb55232ac"
         }
     ]
 }
